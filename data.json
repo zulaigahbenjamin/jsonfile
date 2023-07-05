@@ -51,5 +51,60 @@
         "occupation": "Web Developer",
         "content": ""
     }
+    ],
+
+  "projects" : [
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        },
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        },
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        },
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        },
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        },
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        },
+        {
+            "id": 1,
+            "image": "",
+            "description": "",
+            "github-link": "",
+            "firebase-link": ""
+        }
     ]
 }
+
+  
+
