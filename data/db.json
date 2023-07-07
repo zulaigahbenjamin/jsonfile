@@ -12,7 +12,7 @@
             "image": "https://i.postimg.cc/zDj2XHLF/C12-C1-Lisa-Mbuwa-1.jpg",
             "name": "Lisa Mbuwa ",
             "occupation": "Web Developer",
-            "content": ""
+            "content": "She is the best collegue ive ever worked with and she keeps the surroundings fun anjnd excited but also proffessional at the same time."
         },
         {
             "id": 3,
@@ -30,7 +30,7 @@
         },
         {
             "id": 5,
-            "image": "",
+            "image": "https://i.postimg.cc/vH7RvMDD/C12-C1-Inam-Nkabi-3.jpg",
             "name": "Inam Nkabi ",
             "occupation": "Web Developer",
             "content": "Working with Zuaigah is a pleasure.He is good at seeing the big picture in both the areas of database design and data definition. She ability to asses a situation from all angles and see the myriad of potential ramifications of a particular course of action was very helpful. And always lends a helping hand where needed"
@@ -47,7 +47,7 @@
             "image": "https://i.postimg.cc/XJXz4LJH/C12-C-1-Lyle-Brown-2.jpg",
             "name": "Lyle Brown",
             "occupation": "Web Developer",
-            "content": ""
+            "content": "SHe always feel confident in crafting my applications and presenting my best self to her collegues. I'm grateful for the assistance and highly recommend Zulaigah to any company looking for a seamless college application experience."
         }
     ],
     "projects": [
@@ -60,45 +60,45 @@
         },
         {
             "id": 2,
-            "image": "",
-            "description": "",
-            "github-link": "",
-            "netlify-link": ""
+            "image": "https://i.postimg.cc/LXNZ9LFK/Screenshot-13.png",
+            "description": "Normal Calculator",
+            "github-link": "https://github.com/zulaigahbenjamin/jscalculator.git",
+            "netlify-link": "https://shiny-phoenix-fd3afe.netlify.app/"
         },
         {
             "id": 3,
-            "image": "",
-            "description": "",
-            "github-link": "",
-            "netlify-link": ""
+            "image": "https://i.postimg.cc/m2rKgsM0/Screenshot-14.png",
+            "description": "Tempreture Javascript Calculator",
+            "github-link": "https://github.com/zulaigahbenjamin/tempretureCal.git",
+            "netlify-link": "https://monumental-malabi-b97ae8.netlify.app/"
         },
         {
             "id": 4,
-            "image": "",
-            "description": "",
-            "github-link": "",
-            "netlify-link": ""
+            "image": "https://i.postimg.cc/WbJ6nYPd/Screenshot-15.png",
+            "description": "Practice Portfolio",
+            "github-link": "https://github.com/zulaigahbenjamin/portfolioforfriday.git",
+            "netlify-link": "https://sprightly-khapse-65309f.netlify.app/"
         },
         {
             "id": 5,
             "image": "",
-            "description": "",
-            "github-link": "",
-            "netlify-link": ""
+            "description": "MinToSec Javascript Calculator",
+            "github-link": "https://github.com/zulaigahbenjamin/minToSec.git",
+            "netlify-link": "https://storied-selkie-3ccadb.netlify.app/"
         },
         {
             "id": 6,
-            "image": "",
-            "description": "",
-            "github-link": "",
-            "netlify-link": ""
+            "image": "https://i.postimg.cc/nVwf7rHH/Screenshot-17.png",
+            "description": "BMI Javascriot Calculator",
+            "github-link": "https://github.com/zulaigahbenjamin/BMIcal.git",
+            "netlify-link": "https://cosmic-cannoli-b14ff3.netlify.app/"
         },
         {
             "id": 7,
-            "image": "",
-            "description": "",
-            "github-link": "",
-            "netlify-link": ""
+            "image": "https://i.postimg.cc/y6JsLcpJ/Screenshot-18.png",
+            "description": "To-Do-List",
+            "github-link": "https://github.com/zulaigahbenjamin/to-do-list.git",
+            "netlify-link": "https://unrivaled-cranachan-b5c33c.netlify.app/"
         }
     ],
     "skills": [
